@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Telegram Bot & Search",
+  "description": "A multi-language Telegram bot with Serper.dev search integration, admin broadcast, and Cloudflare Worker compatibility.",
+  "requestFramePermissions": []
+}
